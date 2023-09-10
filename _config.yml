@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Hiwot Belay Tadesse"
-  avatar           : "image_9240.jpg"
+  avatar           : "image_9240.png"
   bio              : "First year PhD student"
   location         : "Boston, MA"
   employer         :
@@ -97,24 +97,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Hiwot985"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
+  Linkedin         : "https://www.linkedin.com/in/hiwi/"
   wikipedia        :
 
 
