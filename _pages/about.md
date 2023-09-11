@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi I am Hiwot Belay Tadesse and I am a first year PhD. Student at Harvard University in the Dtak Lab advised by Finale Doshi-Velez. 
+Hi there,  I am Hiwot Belay Tadesse and I am a first year PhD Student at Harvard University in Computer Science. I am advised by Professor Finale Doshi Velez and I am intersted in using machine learning for healthcare. 
+
